@@ -8,8 +8,7 @@ Python 3 (Jupyter Notebook)
 To apply basic machine learning models on a labelled dataset to predict the target feature 'Income in EUR' on a set of unlabelled data.
 
 ### **Approach**
-I started my solution by understanding the training data. I used Pandas function _describe()_ to perform statistical analysis and visualization library _seaborn_ to picturize any established patterns/shapes. 
-Following is the correlation of feature 'Size of City' with 'Income in EUR':
+I started my solution by understanding the training data. I used Pandas function _describe()_ to perform statistical analysis and visualization library _seaborn_ to picturize any established patterns/shapes.
 
 
 
